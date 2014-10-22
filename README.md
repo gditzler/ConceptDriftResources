@@ -12,6 +12,10 @@ This repositoty simply contains a collection of resources for concept drift data
 * NOAA weather data ([link1](http://users.rowan.edu/~polikar/research/NSE/)) ([link2](https://github.com/gditzler/ConceptDriftData))
 * [Rotating Checkerboard & Drifting Spiral](https://github.com/gditzler/ConceptDriftData)
 * [Airlines Data](http://sourceforge.net/projects/moa-datastream/files/Datasets/Classification/airlines.arff.zip)
+* [Spam](http://www.comp.dit.ie/sjdelany/Dataset.htm)
+* [Luxembourg](https://sites.google.com/site/zliobaite/resources-1)
+* [Chess.com](https://sites.google.com/site/zliobaite/resources-1)
+* [KDD Cup 1999 Data](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
 
 # Software 
 
