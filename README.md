@@ -1,11 +1,17 @@
 # About
 
 
-A collection of resources for concept drift data and software
+This repositoty simply contains a collection of resources for concept drift data and software. Feel free to issue a pull request if you have any datasets or software you would like to add!
 
 
 # Data Sets
 
+* [elec2](http://www.inescporto.pt/~jgama/ales/ales_5.html) - [note](http://arxiv.org/pdf/1301.3524v1.pdf)
+* SEA Concepts ([link1](http://www.inescporto.pt/~jgama/ales/ales_5.html)) ([link2](http://users.rowan.edu/~polikar/research/NSE/))
+* [Drifting Gaussian Data](http://users.rowan.edu/~polikar/research/NSE/)
+* NOAA weather data ([link1](http://users.rowan.edu/~polikar/research/NSE/)) ([link2](https://github.com/gditzler/ConceptDriftData))
+* [Rotating Checkerboard & Drifting Spiral](https://github.com/gditzler/ConceptDriftData)
+* [Airlines Data](http://sourceforge.net/projects/moa-datastream/files/Datasets/Classification/airlines.arff.zip)
 
 # Software 
 
