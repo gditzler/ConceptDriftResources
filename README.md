@@ -17,10 +17,14 @@ This repositoty simply contains a collection of resources for concept drift data
 
 * [Hierarchical ICI-based Change-Detection Tests](http://home.deib.polimi.it/boracchi/Projects/HierarchicalICI-basedCDT.html)
 * [Self-Similarity for Change Detection](http://home.deib.polimi.it/boracchi/Projects/SelfSimilarityCDT.html)
-* [Learn++.NSE](https://github.com/gditzler/IncrementalLearning)
+* [Learn++.NSE (Matlab)](https://github.com/gditzler/IncrementalLearning), [Learn++.NSE (Java)](https://sites.google.com/site/moaextensions/)
+* [Recurring Concept Drifts Framework](https://sites.google.com/site/moaextensions/)
 * [Massive Online Analysis](http://moa.cms.waikato.ac.nz/)
 * [Concept Drift Datasets (Minku)](http://www.cs.bham.ac.uk/~minkull/opensource.html)
 * [Concept Drift Datasets (Kuncheva)](http://pages.bangor.ac.uk/~mas00a/EPSRC_simulation_framework/changing_environments_stage1a.htm)
 * [Online Nonstationary Boosting](http://www.cs.man.ac.uk/~pococka4/ONSBoost.html)
 
-# Acknowledgements 
+# Contact
+
+* [Gregory Ditzler](http://gregoryditzler.com) (<gregory.ditzler@gmail.com>)
+
