@@ -27,6 +27,7 @@ This repositoty simply contains a collection of resources for concept drift data
 * [Concept Drift Datasets (Minku)](http://www.cs.bham.ac.uk/~minkull/opensource.html)
 * [Concept Drift Datasets (Kuncheva)](http://pages.bangor.ac.uk/~mas00a/EPSRC_simulation_framework/changing_environments_stage1a.htm)
 * [Online Nonstationary Boosting](http://www.cs.man.ac.uk/~pococka4/ONSBoost.html)
+* [Scalable Advanced Massive Online Analysis](http://samoa.incubator.apache.org/)
 
 # Contact
 
