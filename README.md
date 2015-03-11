@@ -16,7 +16,8 @@ This repositoty simply contains a collection of resources for concept drift data
 * [Luxembourg](https://sites.google.com/site/zliobaite/resources-1)
 * [Chess.com](https://sites.google.com/site/zliobaite/resources-1)
 * [KDD Cup 1999 Data](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
-
+* [POLIMI Rock Collapse and Landslide Forecasting](http://roveri.faculty.polimi.it/software-and-datasets)
+ 
 # Software 
 
 * [Hierarchical ICI-based Change-Detection Tests](http://home.deib.polimi.it/boracchi/Projects/HierarchicalICI-basedCDT.html)
